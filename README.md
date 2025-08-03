@@ -59,6 +59,11 @@ It was submitted as part of my final internship deliverables for IIM Skills.
 
 🔗 [Click here to view the certificate](https://drive.google.com/file/d/1Ulpuoa2FhxzxFlVpM4KcJlS-aLd7tN73/view?usp=sharing)
 
+## Task Breakdown
+
+All internship tasks and progress are tracked in the [GitHub Project Board](https://github.com/yourusername/iim-skills-internship-project/projects/1).
+
+
 
 
 
