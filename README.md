@@ -37,6 +37,30 @@ Completed a virtual internship with **IIM Skills** focused on real-world SEO tra
 | `keyword.csv`, `search_cpc.csv`, `competition_results.csv`, `traffic.csv` | Lookup tables used for SQL import |
 
 ---
+## Key Insights
+- Built a structured SQL schema using normalized lookup tables
+- Analyzed keyword competition and CPC patterns by traffic source
+- Visualized position-based keyword performance using Power BI
+- Delivered a complete pipeline from raw import to visualization
+
+---
+
+## Outcome
+This internship helped me apply my data analytics skills across the full data pipeline:
+- Data Cleaning (Excel & CSV)
+- Database Modeling (MySQL EER)
+- Data Analysis (Python, Pandas)
+- Data Visualization (Power BI)
+It was submitted as part of my final internship deliverables for IIM Skills.
+
+---
+
+## Internship Certificate
+
+🔗 [Click here to view the certificate](https://drive.google.com/file/d/1Ulpuoa2FhxzxFlVpM4KcJlS-aLd7tN73/view?usp=sharing)
+
+
+
 
 
 
