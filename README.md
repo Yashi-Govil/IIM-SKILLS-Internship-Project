@@ -61,7 +61,7 @@ It was submitted as part of my final internship deliverables for IIM Skills.
 
 ## Task Breakdown
 
-All internship tasks and progress are tracked in the [GitHub Project Board](https://github.com/yourusername/iim-skills-internship-project/projects/1).
+All internship tasks and progress are tracked in the [GitHub Project Board](https://github.com/Yashi-Govil/IIM-SKILLS-Internship-Project/projects?query=is%3Aopen).
 
 
 
